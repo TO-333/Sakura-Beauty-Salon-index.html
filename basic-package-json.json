@@ -1,0 +1,11 @@
+{
+  "name": "sakura-beauty-salon",
+  "version": "1.0.0",
+  "description": "Website for Sakura Beauty Salon",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
